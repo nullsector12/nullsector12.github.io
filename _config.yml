@@ -20,7 +20,7 @@ text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", 
 highlight_theme: tonorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : "https://nullsector12.github.io" # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : "" # does not include hostname
-title   : "삐리삐리빠라뽀의 Von Boyage"
+title   : 삐리삐리빠라뽀의 Von Boyage
 description: > # this means to ignore newlines until "Language & timezone"
   We're all on a great journey, of course you too.
 
