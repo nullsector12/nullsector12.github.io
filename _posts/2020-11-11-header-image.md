@@ -1,6 +1,6 @@
 ---
 title: 헤더에 이미지 올라가는지 확인중
-tags: 제발 
+tags: 제발  올라가줘
 article_header:
   type: cover
   image:
