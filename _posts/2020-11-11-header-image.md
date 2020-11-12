@@ -1,6 +1,6 @@
 ---
-title: Post with Header Image
-tags: TeXt
+title: 헤더에 이미지 올라가는지 확인중
+tags: 제발 
 article_header:
   type: cover
   image:
