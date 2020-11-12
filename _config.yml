@@ -18,7 +18,7 @@
 ##############################
 text_skin: "ocean" # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : "https://nullsector12.github.io" # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : "https://github.com/nullsector12/nullsector12.github.io" # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : 삐리삐리빠라뽀의 Von Boyage
 description: > # this means to ignore newlines until "Language & timezone"
@@ -36,8 +36,8 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : # "person" (default), "organization"
   name      : "김승연/Seung Yeon Kim"
-  url       : https://nullsector12.name
-  avatar    : https://github.com/nullsector12/nullsector12.github.io/blob/master/screenshots/FlyWork.png # path or url of avatar image (square)
+  url       : https://github.com/nullsector12/nullsector12.github.io
+  avatar    : /blob/master/screenshots/FlyWork.png # path or url of avatar image (square)
   bio       : Developers to Always Develop.
   email     : rlamd0412@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
